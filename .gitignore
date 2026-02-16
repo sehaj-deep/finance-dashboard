@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Database
+*.db
+*.sqlite3
+backend/data/finance.db
+
+# Node/Frontend
+node_modules/
+dist/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# User Data
+backend/data/*.pdf
+backend/data/*.csv
