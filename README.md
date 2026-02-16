@@ -2,6 +2,12 @@
 
 A privacy-focused, AI-powered personal finance dashboard that categorizes your bank transactions automatically using **Groq (Llama 3)**.
 
+## 📸 Gallery
+
+| **Dashboard** | **Transaction History** |
+|:---:|:---:|
+| ![Dashboard](Screenshots/dashboard.png) | ![Transactions](Screenshots/transactions.png) |
+
 ## ✨ Features
 
 -   **AI Categorization**: Automatically categorizes transactions (Food, Rent, Transport, etc.) using Llama 3 on Groq.
